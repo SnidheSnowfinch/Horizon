@@ -1,30 +1,5 @@
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>index page</title>
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap" rel="stylesheet">
-    <link href='https://fonts.googleapis.com/css?family=Secular One' rel='stylesheet'>
-    <link rel="stylesheet" href="bootstrap/style.css">
-
-</head>
-<body>
-
-  <header class="navbar">
-    <div class="logo"><img src="bootstrap/images/logo-nav.png" alt=""></div>
-    <nav>
-      <ul class="nav-links">
-       
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Promotions</a></li>
-        <li><a href="#" class="btn">Login</a></li>
-      </ul>
-    </nav>
-  </header>
+<?php include 'includes/header.php' ?>
 
   <section class="hero">
     <div class="hero-content">
@@ -170,59 +145,4 @@ geographical reach.</p>
       <p>Planning a weekend getaway? Our outstation cab services will help you explore the best destinations, visit all the must-see places and taste the best local food. Did you just land at an airport or railway station closest to your destination? No problem! You can use our airport taxi, the transit pick up service to cover the last mile. We'll get you to your destination and show you some of the best sights along the way. Planning on traveling home for a family get-together? Try our newly introduced one-way cab services - no matter where you live, get dropped to your hometown by paying only one-side fare. Decided to take a personal day and spend the whole day exploring your city? Our local taxi packages will help you explore the best places to eat and drink at, some of the city's majestic monuments, greenest parks and oldest temples. You'll never have to worry about an empty travel itinerary again. Are you an offbeat traveller? Do you just hit the road and decide to take it from there? We offer one-way drops on several routes, in case you only want to be dropped to a destination and don't want to look back.</p></div>
 
 </section>
-<footer class="footer">
-    <div class="footer-container">
-      <div class="footer-column">
-       <div><img src="bootstrap/images/logo-footer.png" alt=""></div>
-        <p>We are company name Car Rentals, an online cab booking aggregator</p>
-        <div class="social-icons">
-          <a href="#"><i class="bi bi-facebook-f"></i></a>
-          <a href="#"><i class="bi bi-twitter"></i></a>
-          <a href="#"><i class="bi bi-youtube"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-        </div>
-      </div>
-
-      <div class="footer-column">
-        <h4>GET IN TOUCH</h4>
-        <p>+91 123456789</p>
-        <p>Company@gmail.com</p>
-        <p>Company 123 Street D Block, 4th Floor</p>
-      </div>
-
-      <div class="footer-column">
-        <h4>QUICK LINKS</h4>
-        <a href="#">Home</a>
-        <a href="#">About Us</a>
-        <a href="#">Services</a>
-        <a href="#">Contact Us</a>
-      </div>
-
-      <div class="footer-column">
-        <h4>OUR FLEET</h4>
-        <a href="#">Luxury Car</a>
-        <a href="#">Sedan</a>
-        <a href="#">Vans</a>
-        <a href="#">Minivans</a>
-      </div>
-
-      <div class="footer-column">
-        <h4>POPULAR ROUTES</h4>
-        <a href="#">Pune to Nasik</a>
-        <a href="#">Pune to Mahabaleshwar</a>
-        <a href="#">Pune to Pandharpur</a>
-        <a href="#">Pune to Goa</a>
-      </div>
-    </div>
-
-    <div class="footer-bottom">
-      <p>© 2024 Developed By Snowfinch Consulting Group</p>
-      <div class="d-flex">
-        <a href="#">Terms & Conditions</a>
-        <a href="#">Privacy</a>
-        <a href="#">Cookies</a>
-      </div>
-    </div>
-  </footer>
-</body>
-</html>
+<?php include 'includes/footer.php' ?>

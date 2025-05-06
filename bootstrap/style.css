@@ -157,8 +157,47 @@
     background-color: #CEE7E6;
     padding: 40px 200px;
   }
+  .blue-div-head{
+    position: relative;
+    align-items: center;
+    display: flex
+;
+    gap: 15px;
+    padding: 50px 230px;
+    background: #CEE7E6;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .blue-div-normal{
+    position: relative;
+    align-items: center;
+    display: flex
+;
+    gap: 15px;
+    padding: 50px 230px;
+    background: #CEE7E6;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+  .blue-div-head h3,.blue-div-normal h3{
+    text-transform: capitalize;
+    font-size: 35px;
+    font-weight: 600;
+  }
+  .blue-div-head h5,.blue-div-normal h5{
+    text-transform: capitalize;
+
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .head-search{
+    align-items: center;
+    background: #BBD4D3;
+    display: flex;
+    padding: 10px;
+  }
   .container-div{
-    padding: 50px 200px;
+    padding: 40px 200px;
 
   }
   .dark-div{
@@ -334,20 +373,49 @@
     margin-top: 15px;
    
   }
+  .contact-box{
+    gap: 10px;
+    border-radius: 6px;
+    align-items: center;
+    display: flex
+    ;
+        padding: 30px 30px;
+    background: #203638;
+    justify-items: center;
+   
+  }
   .travel-div{
     margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
   }
-  .travel-box h3{
+  .contact-div{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .travel-box h3,.contact-div h3{
     margin-left: 5px;
     
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 16px;
   }
-  
+  .contact-box i{
+    color: #fff;
+    font-weight: 600;
+    font-size: 23px;
+    }
+  .contact-box p{
+    margin-bottom: 2px;
+    margin-left: 5px;
+    
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+  }
   .footer {
     background-color: #1b3736;
     color: #fff;
@@ -450,4 +518,294 @@
       margin-left: 0;
       margin-top: 8px;
     }
+  }
+  
+  .breadcrumb {
+    padding: 20px;
+    font-size: 18px;
+    color: #555;
+  }
+
+  .breadcrumb strong {
+    font-weight: 700;
+    font-size: 22px;
+  }
+
+  .search-bar {
+  
+    display: flex;
+    gap: 15px;
+    padding: 20px;
+    background: #dceff0;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .search-item {
+    color: #203638;
+    gap: 20px;
+    display: flex
+;
+    border-left: 1px solid gray;
+    padding: 7px 19px;
+    align-items: center;
+  
+  }
+
+  .search-item label {
+    display: block;
+    font-size: 12px;
+    color: #203638;
+  }
+
+  .search-item span {
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .modify-btn {
+    font-size: 15px;
+    background-color: #203638;
+    color: white;
+    padding: 5px 19px;
+    border: none;
+    border-radius: 2px;
+  }
+
+  .car-card {
+    border: 1px solid #83838366;
+    background: white;
+    margin: 0px 0 20px 0;
+    /* max-width: 900px; */
+    padding: 5px 30px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .car-img {
+    display: flex
+    ;
+        border-radius: 15px;
+        background: #CEE7E6;
+        flex: 1 1 200px;
+        padding: 20px;
+        justify-content: space-around;
+    }
+  
+
+  .car-img img {
+    transform: scaleX(-1);
+
+    width: 100%;
+    max-width: 200px;
+  }
+
+  .car-info {
+    flex: 2 1 300px;
+    padding: 25px;
+  }
+
+  .car-info h2 {
+    color: #393939;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .inner-div{
+    display: flex;
+    justify-content: space-between;
+  }
+  .inner-div div{
+    margin-bottom: 10px;
+  }
+.car-info small{
+  font-weight: 400;
+  color: #686a70;
+  font-size: 14px;
+}
+  .features {
+    font-weight: 500;
+    font-size: 15px;
+    color: #393939;
+  }
+
+  .features p {
+    margin: 5px 0;
+  }
+
+  .price-box {
+    flex: 1 1 200px;
+    text-align: right;
+    padding: 10px;
+  }
+
+  .price-box .original {
+    font-weight: 600;
+    text-decoration: line-through;
+    color: #45BD6B;
+    font-size: 18px;
+  }
+
+  .price-box .save {
+    color: #B12704;
+    font-size: 14px;
+  }
+
+  .price-box .final {
+    color: #203638;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 8px 0;
+  }
+.price-box .gst{
+  color: #424242;
+  font-weight: 500;
+  font-size: 15px;
+}
+  .book-btn {
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #203638;
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .book-btn:hover {
+    background-color: #2e5154;
+
+  }
+
+  @media (max-width: 768px) {
+    .car-card {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .price-box {
+      text-align: center;
+    }
+  }
+  .rect-div{
+    bottom: 0;
+    left: 10px;
+    position: absolute;
+  }
+  .rect-div img{
+    width: 210px;
+  }
+  .rect-div-small{
+    top: 0;
+    right: 10px;
+    position: absolute;
+  }
+  .rect-div-small img{
+    transform: rotate(180deg);
+    width: 210px;
+  }
+  .contact-section {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 40px auto;
+    gap: 30px;
+    padding: 20px;
+    align-items: flex-start;
+  }
+
+  .contact-image {
+    flex: 1 1 300px;
+  }
+
+  .contact-image img {
+    height: 400px;
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+
+  .contact-form {
+    flex: 1 1 500px;
+  }
+
+  .contact-form h2 {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+
+  .contact-form p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #555;
+  }
+  .contact-form label {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
+    color: #555;
+  }
+
+  .form-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+ 
+  /* .form-contact-2 {
+    display: flex;
+    flex-wrap: wrap;
+  } */
+
+  .form-row-contact input,.form-row-contact textarea{
+    margin-bottom: 10px;
+
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  .form-contact-2 input,.form-contact-2 textarea{
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+
+  .form-row-contact textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
+  .contact-form textarea {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    resize: vertical;
+    min-height: 100px;
+  }
+
+  .submit-btn-contact {
+    font-weight: 500;
+    font-size: 15px;
+    background-color: #203638;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    width: fit-content;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  .text-end{
+    text-align: end;
   }
