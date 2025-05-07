@@ -1,8 +1,8 @@
 <?php include 'includes/header.php' ?>
 <div class="blue-div-normal">
     <div>
-        <h5>Home > Select Car</h5>
-        <h3>Mysore > Bangalore</h3>
+        <h5>Home > Contact Us</h5>
+        <h3>Get In Touch</h3>
 
     </div>
     <div class="rect-div">

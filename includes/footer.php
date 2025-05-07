@@ -20,10 +20,10 @@
 
       <div class="footer-column">
         <h4>QUICK LINKS</h4>
-        <a href="#">Home</a>
+        <a href="index.php">Home</a>
         <a href="#">About Us</a>
         <a href="#">Services</a>
-        <a href="#">Contact Us</a>
+        <a href="contact-us.php">Contact Us</a>
       </div>
 
       <div class="footer-column">
@@ -46,7 +46,7 @@
     <div class="footer-bottom">
       <p>© 2024 Developed By Snowfinch Consulting Group</p>
       <div class="d-flex">
-        <a href="#">Terms & Conditions</a>
+        <a href="terms-and-conditions.php">Terms & Conditions</a>
         <a href="#">Privacy</a>
         <a href="#">Cookies</a>
       </div>
