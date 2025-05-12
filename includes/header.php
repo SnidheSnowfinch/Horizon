@@ -20,7 +20,14 @@
       <ul class="nav-links">
        
         <li><a href="#">Blog</a></li>
-        <li><a href="#">Promotions</a></li>
+        <li> <a href="tel:+910000000000" class="contact-button">
+    <div class="contact-left">
+      <i class="fas fa-phone"></i> 24x7
+    </div>
+    <div class="contact-right">
+      +910000000000
+    </div>
+  </a></li>
         <li><a href="#" class="btn">Login</a></li>
       </ul>
     </nav>
