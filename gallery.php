@@ -6,31 +6,31 @@
 
     </div>
     <div class="rect-div">
-        <img src="bootstrap/images/rectangle-small.png" alt="">
+        <img src="bootstrap/images/rectangle-small.webp" alt="">
     </div>
     <div class="rect-div-small">
-        <img src="bootstrap/images/rectangle-small.png" alt="">
+        <img src="bootstrap/images/rectangle-small.webp" alt="">
     </div>
 </div>
 <div class="container-div">
 <div class="row">
     <div class="col-lg-4 col-md-6 col-sm-12 mt-3">
-        <img src="bootstrap/images/gallery-img.png" alt="" class="gallery-img">
+        <img src="bootstrap/images/gallery-img.webp" alt="" class="gallery-img">
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 mt-3">
-        <img src="bootstrap/images/gallery-img.png" alt="" class="gallery-img">
+        <img src="bootstrap/images/gallery-img.webp" alt="" class="gallery-img">
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 mt-3">
-        <img src="bootstrap/images/gallery-img.png" alt="" class="gallery-img">
+        <img src="bootstrap/images/gallery-img.webp" alt="" class="gallery-img">
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 mt-3">
-        <img src="bootstrap/images/gallery-img.png" alt="" class="gallery-img">
+        <img src="bootstrap/images/gallery-img.webp" alt="" class="gallery-img">
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 mt-3">
-        <img src="bootstrap/images/gallery-img.png" alt="" class="gallery-img">
+        <img src="bootstrap/images/gallery-img.webp" alt="" class="gallery-img">
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 mt-3">
-        <img src="bootstrap/images/gallery-img.png" alt="" class="gallery-img">
+        <img src="bootstrap/images/gallery-img.webp" alt="" class="gallery-img">
     </div>
    
 

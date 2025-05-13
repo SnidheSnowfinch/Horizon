@@ -6,10 +6,10 @@
 
     </div>
     <div class="rect-div">
-        <img src="bootstrap/images/rectangle-small.png" alt="">
+        <img src="bootstrap/images/rectangle-small.webp" alt="">
     </div>
     <div class="rect-div-small">
-        <img src="bootstrap/images/rectangle-small.png" alt="">
+        <img src="bootstrap/images/rectangle-small.webp" alt="">
     </div>
 </div>
 <div class="container-div">
@@ -42,7 +42,7 @@
     </div>
     <section class="contact-section">
         <div class="contact-image">
-            <img src="bootstrap/images/contact-img.jpg" alt="Contact Driver" />
+            <img src="bootstrap/images/contact-img.webp" alt="Contact Driver" />
         </div>
         <div class="contact-form">
             <h2>Get in touch</h2>

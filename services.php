@@ -48,9 +48,9 @@
     <div class="row d-align">
       <div class="col-lg-6 col-md-12 col-sm-12 text-center">
 <div class="position-relative">
-<img src="bootstrap/images/car-home.png" alt="" class="blue-div-img">
+<img src="bootstrap/images/car-home.webp" alt="" class="blue-div-img">
 <div class="dark-div">
-  <img src="bootstrap/images/dark-div.png" alt="">
+  <img src="bootstrap/images/dark-div.webp" alt="">
 </div>
 
 </div>      </div>
@@ -76,7 +76,7 @@ geographical reach.</p>
 
 <div class="service-section">
   <div class="service-card">
-    <img src="bootstrap/images/property-car.jpg" alt="">
+    <img src="bootstrap/images/property-car.webp" alt="">
     <div>
       <h4>Airport Transfers</h4>
       <p>We care about your flight as much as you do. Our airport transfer services across airports in the country offer pickups and drops with complete reliability. Book in advance and rest easy - we will take care of the rest.</p>
@@ -84,7 +84,7 @@ geographical reach.</p>
     </div>
   </div>
   <div class="service-card">
-    <img src="bootstrap/images/property-car.jpg" alt="">
+    <img src="bootstrap/images/property-car.webp" alt="">
     <div>
       <h4>Airport Transfers</h4>
       <p>We care about your flight as much as you do. Our airport transfer services across airports in the country offer pickups and drops with complete reliability. Book in advance and rest easy - we will take care of the rest.</p>
@@ -92,7 +92,7 @@ geographical reach.</p>
     </div>
   </div>
   <div class="service-card">
-    <img src="bootstrap/images/property-car.jpg" alt="">
+    <img src="bootstrap/images/property-car.webp" alt="">
     <div>
       <h4>Airport Transfers</h4>
       <p>We care about your flight as much as you do. Our airport transfer services across airports in the country offer pickups and drops with complete reliability. Book in advance and rest easy - we will take care of the rest.</p>
@@ -100,7 +100,7 @@ geographical reach.</p>
     </div>
   </div>
   <div class="service-card">
-    <img src="bootstrap/images/property-car.jpg" alt="">
+    <img src="bootstrap/images/property-car.webp" alt="">
     <div>
       <h4>Airport Transfers</h4>
       <p>We care about your flight as much as you do. Our airport transfer services across airports in the country offer pickups and drops with complete reliability. Book in advance and rest easy - we will take care of the rest.</p>
@@ -117,18 +117,18 @@ geographical reach.</p>
     </div>
      <div class="travel-div">
       <div class="travel-box">
-        <div><img src="bootstrap/images/home-icon-3.png" alt=""></div>
+        <div><img src="bootstrap/images/home-icon-3.webp" alt=""></div>
         <h3>Clean and
         Hygienic Car</h3></div>
       <div class="travel-box">
-      <div><img src="bootstrap/images/home-icon-2.png" alt=""></div>
+      <div><img src="bootstrap/images/home-icon-2.webp" alt=""></div>
       <h3>Transparent
       Billing</h3></div>
-      <div class="travel-box">        <div><img src="bootstrap/images/home-icon-4.png" alt=""></div>
+      <div class="travel-box">        <div><img src="bootstrap/images/home-icon-4.webp" alt=""></div>
       <h3>Expert
       Chauffeurs</h3></div>
 
-      <div class="travel-box">        <div><img src="bootstrap/images/home-icon-1.png" alt=""></div>
+      <div class="travel-box">        <div><img src="bootstrap/images/home-icon-1.webp" alt=""></div>
       <h3>2000+
       cities</h3></div>
 

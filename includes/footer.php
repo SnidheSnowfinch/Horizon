@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="footer-container">
-      <div class="footer-column">
-       <div><img src="bootstrap/images/logo-footer.png" alt=""></div>
+      <div class="footer-column-start">
+       <div><img src="bootstrap/images/logo-footer.webp" alt=""></div>
         <p>We are company name Car Rentals, an online cab booking aggregator</p>
         <div class="social-icons">
           <a href="#"><i class="bi bi-facebook-f"></i></a>
@@ -52,5 +52,7 @@
       </div>
     </div>
   </footer>
+  <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>

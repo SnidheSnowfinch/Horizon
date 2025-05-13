@@ -6,10 +6,10 @@
 
     </div>
     <div class="rect-div">
-        <img src="bootstrap/images/rectangle-small.png" alt="">
+        <img src="bootstrap/images/rectangle-small.webp" alt="">
     </div>
     <div class="rect-div-small">
-        <img src="bootstrap/images/rectangle-small.png" alt="">
+        <img src="bootstrap/images/rectangle-small.webp" alt="">
     </div>
 </div>
 <div class="container-div">
