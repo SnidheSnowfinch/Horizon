@@ -36,7 +36,7 @@
   </div>
   </div>
 <div class="container-div">
-  <div class="car-card">
+  <div class="car-card card-1">
     <div class="car-img">
       <img src="bootstrap/images/card-car.webp" alt="Innova Crysta">
     </div>
@@ -46,7 +46,7 @@
         <p>Extra Km Fare</p>
         <div class="inner-div"><div><img src="bootstrap/images/extra-km.webp" class="me-2" alt=""><span>Extra Km Fare</span></div> <div>₹14.3/km <small>after</small> 149 kms</div></div>
         <div class="inner-div"><div><img src="bootstrap/images/fuel.webp" class="me-2" alt=""><span>Fuel Type</span></div> <div>CNG with refill breaks</div></div>
-        <div class="inner-div"><div class="d-flex me-4"><img src="bootstrap/images/cancellation.webp" class="me-2" alt=""><span>Cancellation</span></div> <div>Free till 1 hour of departure</div></div>
+        <div class="inner-div"><div class="d-flex align-items-center me-4"><img src="bootstrap/images/cancellation.webp" class="me-2" alt=""><span>Cancellation</span></div> <div>Free till 1 hour of departure</div></div>
 
       </div>
     </div>
@@ -58,7 +58,7 @@
       <button class="book-btn">BOOK NOW</button>
     </div>
   </div>
-  <div class="car-card">
+  <div class="car-card card-1">
     <div class="car-img">
       <img src="bootstrap/images/card-car.webp" alt="Innova Crysta">
     </div>
@@ -68,7 +68,7 @@
         <p>Extra Km Fare</p>
         <div class="inner-div"><div><img src="bootstrap/images/extra-km.webp" class="me-2" alt=""><span>Extra Km Fare</span></div> <div>₹14.3/km <small>after</small> 149 kms</div></div>
         <div class="inner-div"><div><img src="bootstrap/images/fuel.webp" class="me-2" alt=""><span>Fuel Type</span></div> <div>CNG with refill breaks</div></div>
-        <div class="inner-div"><div class="d-flex me-4"><img src="bootstrap/images/cancellation.webp" class="me-2" alt=""><span>Cancellation</span></div> <div>Free till 1 hour of departure</div></div>
+        <div class="inner-div"><div class="d-flex align-items-center me-4"><img src="bootstrap/images/cancellation.webp" class="me-2" alt=""><span>Cancellation</span></div> <div>Free till 1 hour of departure</div></div>
 
       </div>
     </div>
@@ -80,7 +80,7 @@
       <button class="book-btn">BOOK NOW</button>
     </div>
   </div>
-  <div class="car-card">
+  <div class="car-card card-1">
     <div class="car-img">
       <img src="bootstrap/images/card-car.webp" alt="Innova Crysta">
     </div>
@@ -90,7 +90,7 @@
         <p>Extra Km Fare</p>
         <div class="inner-div"><div><img src="bootstrap/images/extra-km.webp" class="me-2" alt=""><span>Extra Km Fare</span></div> <div>₹14.3/km <small>after</small> 149 kms</div></div>
         <div class="inner-div"><div><img src="bootstrap/images/fuel.webp" class="me-2" alt=""><span>Fuel Type</span></div> <div>CNG with refill breaks</div></div>
-        <div class="inner-div"><div class="d-flex me-4"><img src="bootstrap/images/cancellation.webp" class="me-2" alt=""><span>Cancellation</span></div> <div>Free till 1 hour of departure</div></div>
+        <div class="inner-div"><div class="d-flex align-items-center me-4"><img src="bootstrap/images/cancellation.webp" class="me-2" alt=""><span>Cancellation</span></div> <div>Free till 1 hour of departure</div></div>
 
       </div>
     </div>

@@ -24,7 +24,8 @@
                     <div class="features">
                         <p>Extra Km Fare</p>
                         <div class="inner-div">
-                            <div><img src="bootstrap/images/extra-km.webp" class="me-2" alt=""><span>Extra Km Fare</span>
+                            <div><img src="bootstrap/images/extra-km.webp" class="me-2" alt=""><span>Extra Km
+                                    Fare</span>
                             </div>
                             <div>₹14.3/km <small>after</small> 149 kms</div>
                         </div>
@@ -33,8 +34,8 @@
                             <div>CNG with refill breaks</div>
                         </div>
                         <div class="inner-div">
-                            <div class="d-flex me-4"><img src="bootstrap/images/cancellation.webp" class="me-2"
-                                    alt=""><span>Cancellation</span></div>
+                            <div class="d-flex align-items-center me-4"><img src="bootstrap/images/cancellation.webp"
+                                    class="me-2" alt=""><span>Cancellation</span></div>
                             <div>Free till 1 hour of departure</div>
                         </div>
 
@@ -44,24 +45,24 @@
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12">
-        <div class="booking-card">
-            <div class="location-flex">
-                <div>
-                    <img src="bootstrap/images/locationn.webp" alt="">
+            <div class="booking-card">
+                <div class="location-flex">
+                    <div>
+                        <img src="bootstrap/images/locationn.webp" alt="">
+                    </div>
+                    <div>
+                        <div>
+                            <h3>Pick-up</h3>
+                            <p>pune, maharashtra, india</p>
+                        </div>
+                        <div>
+                            <h3>Trip destination</h3>
+                            <p>pune, maharashtra, india</p>
+                        </div>
+                    </div>
                 </div>
-               <div>
-               <div>
-                    <h3>Pick-up</h3>
-                    <p>pune, maharashtra, india</p>
-                </div>
-                <div>
-                <h3>Trip destination</h3>
-                <p>pune, maharashtra, india</p>
-                </div>
-               </div>
-            </div>
 
-        </div>
+            </div>
 
         </div>
 
@@ -110,62 +111,72 @@
 
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
-        <div class="booking-card">
-            <h4>Booking details</h4>
-            <div>
-                <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-               <p class="fw-semibold"> Pickup City: </p>
-               
-              
-              
-              
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 p-0">
-<p>pune</p>
+            <div class="booking-card">
+                <h4>Booking details</h4>
+                <div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <p class="fw-semibold"> Pickup City: </p>
+
+
+
+
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <p>pune</p>
 
 
 
 
 
-</div>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <p class="fw-semibold">Trip Type:</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <p>Local (8hr/80 km)</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <p class="fw-semibold">Car Type</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <p>tata tiago</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <p class="fw-semibold">Dropoff:</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <p>mumbai</p>
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <p class="fw-semibold">Date&Time:</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <p>13-11-24 at 7:00 AM</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <p class="fw-semibold">Total Fare :</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <p>₹ 11500</p>
+                        </div>
+                    </div>
 
                 </div>
-                <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                <p class="fw-semibold">Trip Type:</p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 p-0">
-                <p>Local (8hr/80 km)</p>
-                </div></div>
-                <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6"><p class="fw-semibold">Car Type</p></div>
-                <div class="col-lg-6 col-md-6 col-sm-6 p-0">
-                <p >tata tiago</p>
-                </div></div>
-                <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                <p class="fw-semibold">Dropoff:</p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 p-0"><p>mumbai</p>
-                
-                </div></div>
-                <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                <p class="fw-semibold">Date&Time:</p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 p-0">
-                <p>13-11-24 at 7:00 AM</p>
-                </div></div>
-                <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                <p class="fw-semibold">Total Fare :</p>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 p-0"><p>₹ 11500</p></div></div>
-               
+
             </div>
-
-</div>
         </div>
 
 
@@ -212,38 +223,40 @@
                         <input type="number">
                     </div>
                 </div>
-                
+
             </div>
 
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div>
-                        <div class="border-div">
-                            
-                        <div class="row ">
-                            <div class="col-lg-8 col-sm-6">
-                                <h4>Total Amount</h4>
-                                <label for="">inc. of tolls and taxes</label>
-                            </div>
-                            <div class="col-lg-4 col-sm-6">
-                                <h4>₹11500</h4>
-                            </div>
+            <div>
+                <div class="border-div">
 
+                    <div class="row ">
+                        <div class="col-lg-8 col-sm-6">
+                            <h4>Total Amount</h4>
+                            <label for="">inc. of tolls and taxes</label>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                            <h4>₹11500</h4>
                         </div>
 
-                        </div>
-                        <div class="amount-card">
-                        <div class="radio-options">
-          <label><input type="radio" name="payment" checked> Make part payment now  <label for="">₹5000</label></label> 
-          <label><input type="radio" name="payment"> Make full payment now  <label for="">₹11500</label></label> 
-        </div>
-       <div class="button-card">
-       <button class="booking-btn w-100">Confirm</button>
-       </div>
-
-        </div>
                     </div>
+
                 </div>
+                <div class="amount-card">
+                    <div class="radio-options">
+                        <label><input type="radio" name="payment" checked> Make part payment now <label
+                                for="">₹5000</label></label>
+                        <label><input type="radio" name="payment"> Make full payment now <label
+                                for="">₹11500</label></label>
+                    </div>
+                    <div class="button-card">
+                        <button class="booking-btn w-100">Confirm</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <?php include 'includes/footer.php' ?>
