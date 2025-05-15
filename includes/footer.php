@@ -22,7 +22,7 @@
         <h4>QUICK LINKS</h4>
         <a href="index.php">Home</a>
         <a href="#">About Us</a>
-        <a href="#">Services</a>
+        <a href="services.php">Services</a>
         <a href="contact-us.php">Contact Us</a>
       </div>
 
